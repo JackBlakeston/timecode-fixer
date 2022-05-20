@@ -5,12 +5,12 @@ A very use-case-specific script I wrote for an audiovisual translator to fix som
 
 ## Requisites
 
--Download this repo
--Install Node
+- Download this repo
+- Install Node
 
 
 # How to convert files
 
--Import your file in this folder
--Open terminal in this folder
--Type in terminal: node sub-converter.js fileName.txt <fileName is the name of your txt file>
+- Import your file in this folder
+- Open terminal in this folder
+- Type in terminal: node sub-converter.js fileName.txt <fileName is the name of your txt file>
